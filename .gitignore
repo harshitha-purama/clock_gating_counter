@@ -1,0 +1,7 @@
+# Ignore simulation output files
+*.vcd
+*.vvp
+*sim
+
+# Ignore macOS specific files
+.DS_Store
